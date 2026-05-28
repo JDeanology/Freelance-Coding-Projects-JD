@@ -1,1 +1,1 @@
-# Freelance-Coding-Projects-JD
+Simple JavaScript To-Do List App
